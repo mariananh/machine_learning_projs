@@ -14,9 +14,9 @@ import pandas as pd
 # In[14]:
 
 
-xtrain = np.load('/Users/marianahenriques/Documents/X_train.npy')
-ytrain = np.load('/Users/marianahenriques/Documents/y_train.npy')
-xtest = np.load('/Users/marianahenriques/Documents/X_test.npy')
+xtrain = np.load('X_train.npy')
+ytrain = np.load('y_train.npy')
+xtest = np.load('X_test.npy')
 
 
 # In[15]:
